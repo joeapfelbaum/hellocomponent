@@ -1,0 +1,1 @@
+console.log("ProfileSaver content script loaded"),document.body.style.backgroundColor="lightblue";
